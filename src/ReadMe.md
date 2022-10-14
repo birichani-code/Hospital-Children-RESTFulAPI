@@ -1,9 +1,9 @@
    
 
-#springboot-HospitalChild-rest-api
-####Developing a complete real-time REST APIs with Spring Boot by building a hospital children records APP.
+# Spring Boot-HospitalChild-rest-api
+#### Developing a complete real-time REST APIs with Spring Boot by building a hospital children records APP.
 
-##Technologies used:
+## Technologies used:
 ### Java 17
 ### Spring Boot
 ### Spring Data Jpa
